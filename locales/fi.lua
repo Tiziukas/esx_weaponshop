@@ -1,4 +1,4 @@
-Locales ['fi'] = {
+return {
   ["license_shop_title"] = "Lisenssikauppa",
   ["weapon_shop_menu_title"] = "Asekauppa",
   ["weapon_shop_menu_description"] = "Osta aseita",

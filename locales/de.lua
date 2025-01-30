@@ -1,4 +1,4 @@
-Locales ['de'] = {
+return {
   ["license_shop_title"] = "Lizenzshop",
   ["weapon_shop_menu_title"] = "Waffenladen",
   ["weapon_shop_menu_description"] = "Waffen kaufen",

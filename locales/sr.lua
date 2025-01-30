@@ -1,4 +1,4 @@
-Locales ['sr'] = {
+return {
   ["license_shop_title"] = "Prodavnica Licenci",
   ["weapon_shop_menu_title"] = "Oružarnica",
   ["weapon_shop_menu_description"] = "Kupi Oružje",

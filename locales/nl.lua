@@ -1,4 +1,4 @@
-Locales ['nl'] = {
+return {
   ["license_shop_title"] = "Licentie Winkel",
   ["weapon_shop_menu_title"] = "Wapen winkel",
   ["weapon_shop_menu_description"] = "Koop wapens",
